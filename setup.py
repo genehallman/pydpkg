@@ -11,4 +11,5 @@ setup(
     author_email='greg@livefyre.com',
     url='https://github.com/gregrperkins/pydpkg',
     license='BSD',
+    scripts=['dpkg.py']
 )
